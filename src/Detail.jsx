@@ -24,6 +24,7 @@ import flutter from "./Assets/flutter.png";
 import xampp from "./Assets/xampp.png";
 import codeblocks from "./Assets/codeblocks.png";
 import yourjob from "./Assets/yourjob.png";
+import portofolio from "./Assets/portofolio.png";
 import WTB from "./Assets/WTB.jpg";
 
 export const socialMediaUrl = {
@@ -115,7 +116,7 @@ export const eduDetails = [
   export const projectDetails = [
     {
       title: "YourJob",
-      description: 'Website to help find The Dream Job. Search job that suits you.',
+      description: 'Website to help you find your dream job. Find a job that suits your desires and skills.',
       image: yourjob,
       feature: 'Login, Register, Create Read Update Delete Search Jobs Data',
       deploy: 'Netlify',
@@ -123,6 +124,17 @@ export const eduDetails = [
       previewLink: "https://najla-yourjob.netlify.app/",
       githubLink: "https://gitlab.com/najlaadila1808/sanbercode-reactjs-batch-50/-/tree/main/final-project?ref_type=heads",
     },
+    {
+      title: "Najla Portofolio",
+      description: 'Najla Portfolio is a portfolio website designed to introduce myself, my skills, and the projects I have worked on.',
+      image: portofolio,
+      feature: 'Home, About, Skills, Project, Contact',
+      deploy: 'Netlify',
+      techstack: "HTML, CSS Tailwind, Javascript, ReactJS",
+      previewLink: "https://najla-yourjob.netlify.app/",
+      githubLink: "https://github.com/najlanuradila/Portofolio/tree/master",
+    },
+
     
   ];
 
