@@ -131,7 +131,7 @@ export const eduDetails = [
       feature: 'Home, About, Skills, Project, Contact',
       deploy: 'Netlify',
       techstack: "HTML, CSS Tailwind, Javascript, ReactJS",
-      previewLink: "https://najla-yourjob.netlify.app/",
+      previewLink: "https://najla-portofolio.netlify.app/",
       githubLink: "https://github.com/najlanuradila/Portofolio/tree/master",
     },
 
